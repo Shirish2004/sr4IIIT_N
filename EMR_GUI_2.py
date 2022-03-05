@@ -132,3 +132,4 @@ while True:
         clear_input()
 
 window.close()
+
