@@ -1,2 +1,5 @@
 *.exe
 __pycache__/
+EMR_File.xlsx
+*.ipynb
+dist.zip
