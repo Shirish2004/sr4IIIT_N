@@ -9,7 +9,9 @@ The Model achieved a validation accuracy of 84% and training accuracy of 89%. Th
 Following method can be directly used to load the model and use it for further purpose. This process is also called tranfer learning. Using Transfer learning one can also fine tune the weights and come out with a better verison 
 
 from keras.models import load_model
+
 path="path to the saved model"
+
 model=load_model(path)
 
 model.summary()
