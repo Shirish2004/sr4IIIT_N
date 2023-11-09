@@ -1,6 +1,4 @@
-#Speech_Recognition_for_IIIT_Nagpur
-
-This project is intended for IIIT Nagpur as a part of my internship there under esteemed guidance of Dr. Pooja Jain.
+#Speech_Recognition_for_EMR
 
 The deep Learning Model Classifies 10 word sounds namely "yes","no","on","off","up","down","right","left","stop","go" using Conv1D Neural Netwrok 
 
