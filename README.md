@@ -1,4 +1,4 @@
-#Speech_Recognition_for_EMR
+# Speech Recognition for EMR
 
 The deep Learning Model Classifies 10 word sounds namely "yes","no","on","off","up","down","right","left","stop","go" using Conv1D Neural Netwrok 
 
