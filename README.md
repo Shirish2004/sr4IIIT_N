@@ -13,3 +13,7 @@ path="path to the saved model"
 model=load_model(path)
 
 model.summary()
+
+## GUI
+
+The intent of the project was to create an electronic medical record that does not require doctors to manually type in the data, which can save a lot of time usually consumed before checking the patient. The objective was to leverage the power of Deep Learning and methodologies like transfer learning to create a robust mechanism. However, due to constraints obtained during the data collection, as it was just after the COVID era, the leveraging idea is left to be discovered in the future. For the current instance, the use of Google speech recognition API is being done to make the mechanism robust in its own way. The limitations the project faces lie in the domain of pronunciation, timeout, and better deployability. Any opportunities to further explore it and contributions are welcomed whole heartedly.
